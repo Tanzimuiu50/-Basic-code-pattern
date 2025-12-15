@@ -1,2 +1,2 @@
-# -Basic-code-array
-arry related problems
+# -Basic-code-pattern
+pattern related problems
